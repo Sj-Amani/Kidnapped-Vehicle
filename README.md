@@ -1,5 +1,7 @@
 # Kidnapped Vehicle
 
+![Kidnapped_Vehicle_gif](results/Kidnapped_Vehicle.gif)
+
 ## Overview
 In this project I will `implementing a 2D particle filter to localize a vehicle within a desired accuracy`. The main codes are in the "src/" directory:
 
